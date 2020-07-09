@@ -1,0 +1,30 @@
+{
+  "name": "info-2300-as-3",
+  "version": "1.0.0",
+  "description": "This is a chance to test es6 with node 9.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.heroku.com/info-2300-as-03.git"
+  },
+  "keywords": [
+    "node",
+    "es6",
+    "problem",
+    "solving"
+  ],
+  "author": "Yuliia Chermashentseva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://git.heroku.com/info-2300-as-03.git"
+  },
+  "homepage": "https://git.heroku.com/info-2300-as-03.git",
+  "dependencies": {
+    "express": "*"
+  }
+}
